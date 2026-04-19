@@ -73,10 +73,3 @@ This model is developed for educational and research purposes only. It is not a 
 
 📜 License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
-
-Tips for your README:
-Add Screenshots: If you have a training loss curve from your Kaggle/Colab run, save the image and add it to a /media folder in your repo.
-
-Hugging Face Link: If you push your model to the Hugging Face Hub, include a direct link to the model card.
-
-Project Context: Since you've worked with AI agents, you could add a section on how this SLM can be used as a "Medical Agent Brain" in a larger LangChain workflow.
